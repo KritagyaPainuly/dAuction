@@ -2,7 +2,8 @@
 
 Output
 
-![image](https://user-images.githubusercontent.com/75200248/214670087-6a68eeb7-ea00-4e91-8fc8-eda316370998.png)
+![image](https://user-images.githubusercontent.com/75200248/214670335-fc6eb71f-0a17-4fa4-a3cf-ef17b2e0444f.png)
+
 
 Welcome to your new dAuction project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
